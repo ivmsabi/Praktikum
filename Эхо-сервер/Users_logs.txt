@@ -1,0 +1,26 @@
+Server started, ('localhost', 12345)
+Listening on port 12345
+Client connected ('127.0.0.1', 49321)
+
+Server started, ('localhost', 1234)
+Listening on port 1234
+Client connected ('127.0.0.1', 49433)
+Client disconnected 127.0.0.1
+
+Client connected ('127.0.0.2', 49456)
+Client disconnected 127.0.0.2
+
+Server started, ('localhost', 23456)
+Listening on port 23456
+Client connected ('127.0.0.1', 49484)
+Сервер запущен, ('localhost', 1024)
+Ожидание подключения на порту 1024
+Сервер запущен, ('localhost', 5555)
+Ожидание подключения на порту 5555
+Клиент подключился ('127.0.0.1', 57473)
+Клиент отключился 127.0.0.1
+Сервер запущен, ('localhost', 5555)
+Ожидание подключения на порту 5555
+Клиент подключился ('127.0.0.1', 57765)
+Сервер запущен, ('localhost', 1024)
+Ожидание подключения на порту 1024
